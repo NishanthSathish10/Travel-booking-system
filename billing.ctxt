@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=adult\ children\ NoAdult\ NoChildren\ city\ mode
+comment0.target=void\ ticket(int,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment1.params=adult\ children\ NoAdult\ NoChildren\ tour
+comment1.target=void\ tour(int,\ int,\ int,\ int,\ java.lang.String)
+numComments=2
